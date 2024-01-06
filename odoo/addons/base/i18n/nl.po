@@ -14136,7 +14136,7 @@ msgstr "Toevoegen"
 #: model:ir.model.fields,field_description:base.field_ir_module_module__application
 #: model:ir.model.fields,field_description:base.field_res_groups__category_id
 msgid "Application"
-msgstr "Sollicitatie"
+msgstr "Applicatie"
 
 #. module: base
 #: model:ir.ui.menu,name:base.menu_translation_app
